@@ -16,7 +16,7 @@
 
 ### 👨‍💻 À propos de moi
 
-Mon parcours est guidé par la curiosité et l'envie de relever de nouveaux défis : après des débuts en médecine et en biologie, je me suis réorientée vers l'ingénierie avec un objectif clair : me spécialiser en **cybersécurité**[cite: 1]. 
+Mon parcours est guidé par la curiosité et l'envie de relever de nouveaux défis : après des débuts en médecine et en biologie, je me suis réorientée vers l'ingénierie avec un objectif clair : me spécialiser en **cybersécurité**. 
 
 - 🎯 **Objectif :** À la recherche d'une **Alternance de 24 mois** (rythme 3 semaines / 3 semaines) à partir de **Septembre 2026**.
 - 💡 **Mindset :** Je construis mes compétences en systèmes, réseaux, cloud et cyber via des projets concrets (HomeLabs, TryHackMe).
