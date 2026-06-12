@@ -70,6 +70,6 @@ Mon parcours est guidé par la curiosité et l'envie de relever de nouveaux déf
 
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Labo Cyber : pfSense & Kali](https://github.com/Nvrgiice/Firewall)** | Déploiement d'une zone de confiance hermétique (Dual-Homed). Routage, résolution DNS/DHCP, et mise en place de règles de pare-feu Stateful. | `pfSense`, `VirtualBox`, `Réseau` |
+| **[Labo Cyber : pfSense & Kali](https://github.com/Nvrgiice/Firewall)** | Firewall, Routage, résolution DNS/DHCP, et mise en place de règles de pare-feu Stateful. | `pfSense`, `VirtualBox`, `Réseau` |
 | **Infra Cloud Azure Sécurisée** | Déploiement d'un environnement cloud durci : VM Debian 12, NSG, SSH par clés, et web multi-site HTTPS. | `Azure`, `Debian`, `Apache` |
 | **Module Web (Stage ULB)** | Remplacement d'un outil de gestion. Conteneurisation de l'application et automatisation via pipeline CI/CD. | `Docker`, `GitLab`, `Python` |
