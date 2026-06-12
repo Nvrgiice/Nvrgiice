@@ -28,35 +28,45 @@ Mon parcours est guidé par la curiosité et l'envie de relever de nouveaux déf
 ### 🛠️ Mon Stack Technique
 
 <div align="center">
-  <p><strong>OS, Cloud & Infrastructure</strong></p>
+  <p><strong>OS, Infrastructure & Cloud</strong></p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
 </div>
 
 <br/>
 
 <div align="center">
-  <p><strong>Réseau, Cyber & Web</strong></p>
+  <p><strong>Réseau, Sécurité & Web</strong></p>
   <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=let's-encrypt&logoColor=white" alt="Let's Encrypt" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
 <br/>
 
 <div align="center">
-  <p><strong>DevSecOps, Langages & Embarqué</strong></p>
+  <p><strong>DevSecOps, Langages & Scripting</strong></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><strong>Électronique, Embarqué & Outils</strong></p>
   <img src="https://img.shields.io/badge/STM32-0083D6?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" />
+  <img src="https://img.shields.io/badge/Altium-003366?style=for-the-badge&logo=altium&logoColor=white" alt="Altium" />
 </div>
 
 ---
@@ -65,7 +75,7 @@ Mon parcours est guidé par la curiosité et l'envie de relever de nouveaux déf
 
 * **Méthodes :** Agile, Scrum, Kanban.
 * **Gouvernance :** Maîtrise des concepts du SMSI et de la norme ISO 27001 acquise lors d'un programme de mentorat.
-* **Outils :** GitLab CI/CD, Git, GitHub, SSH par clés.
+* **Outils :** GitLab CI/CD, Git, GitHub, SSH par clés, Gestion des droits et utilisateurs.
 
 ---
 
