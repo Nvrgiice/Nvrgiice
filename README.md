@@ -1,5 +1,5 @@
-<h1 align="center">Salut, je suis Nargice BOUDLAL 👋</h1>
-<h3 align="center">🛡️ Future Ingénieure Cybersécurité & Systèmes | Adepte de HomeLabs</h3>
+<h1 align="center"> Bonjour, je suis Nargice 👋</h1>
+<h3 align="center">🛡️ Future Ingénieure Cybersécurité & Systèmes </h3>
 
 <br/>
 
@@ -16,10 +16,14 @@
 
 ### 👨‍💻 À propos de moi
 
-- 🎯 **Objectif :** À la recherche d'une **Alternance de 24 mois** (rythme 3 sem / 3 sem) à partir de **Septembre 2026**.
-- 🎓 **Études :** Élève ingénieure à l'**ESEO Angers** (Spécialisation Cybersécurité & Systèmes).
-- 💡 **Mindset :** J'apprends par la pratique. Je construis mes propres laboratoires pour tester, casser et sécuriser des infrastructures.
-- 📚 **En cours :** Préparation de la certification **ISO 27001** et apprentissage continu (CEFCYS, TryHackMe).
+Mon parcours est guidé par la curiosité et l'envie de relever de nouveaux défis : après des débuts en médecine et en biologie, je me suis réorientée vers l'ingénierie avec un objectif clair, me spécialiser en **cybersécurité**. 
+
+- 🎯 **Objectif :** À la recherche d'une **Alternance de 24 mois** (rythme 3 semaine / 3 semaine) à partir de **Septembre 2026**.
+- 💡 **Mindset :** Je construis mes compétences en systèmes, réseaux, cloud et cyber à travers la création de petits projets et de laboratoires (HomeLabs) mais aussi avec TryHackMe. Je suis également une veille technologique régulière et suis très active sur mon réseau professionnel.
+- 🚀 **Soft Skills :** Dotée d'une grande capacité d'apprentissage, je suis reconnue pour ma forte autonomie et mon adaptabilité (des qualités éprouvées lors de mon stage de déploiement d'infrastructure à l'ULB de Bruxelles). 
+- 👩‍💻 **Engagement :** Membre du CEFCYS (Cercle des Femmes de la Cybersécurité), j'ai à cœur de mettre en avant la cybersécurité et l'ingénierie au féminin.
+
+**En bref :** Si vous cherchez une alternante proactive, qui a profondément envie d'évoluer et de s'investir pour faire avancer vos projets, vous êtes au bon endroit !
 
 ---
 
@@ -62,11 +66,3 @@
 | **[Labo Cyber : pfSense & Kali](METS_LE_LIEN_ICI)** | Déploiement d'une zone de confiance hermétique (Dual-Homed). Routage, résolution DNS/DHCP, et mise en place de règles de pare-feu Stateful (Top-Down). | `pfSense`, `VirtualBox`, `Kali Linux`, `Réseau L3` |
 | **Infra Cloud Azure Sécurisée** | Déploiement d'un environnement cloud durci : VM Debian 12, Network Security Groups, accès SSH par clés exclusifs et web multi-site HTTPS. | `Azure`, `Debian`, `Apache`, `Let's Encrypt` |
 | **Module Web (Stage ULB)** | Remplacement d'un outil de gestion. Conteneurisation de l'application et automatisation du déploiement via un pipeline CI/CD. | `Docker`, `GitLab CI/CD`, `Python`, `Frappe` |
-
----
-
-### 📊 Mes Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Statistiques de Nargice" />
-</div>
