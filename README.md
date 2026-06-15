@@ -12,6 +12,7 @@
 
 ## 🎯 Objectif : Alternance
 > → Je recherche une **Alternance 24 mois (rythme 3 sem / 3 sem)** à partir de septembre 2026 en IDF ou Angers/Nantes/Le Mans/Tours/Rennes.
+> → ou un stage pour monter en compétences et gagner de l'expérience !
 
 Aujourd'hui mon objectif est de me spécialiser en cybersécurité. Je construis mes compétences de manière autonome : HomeLabs, TryHackMe, projets concrets, certifications.
 
