@@ -4,10 +4,10 @@
 J'ai commencé par la médecine, puis la biologie, avant de me réorienter vers l'ingénierie.
 Ce parcours un peu atypique m'a appris une chose : je m'adapte vite et j'apprends encore plus vite.
 
-Aujourd'hui mon objectif est clair — me spécialiser en cybersécurité, côté infrastructure et DevSecOps.
-Je construis mes compétences sur le terrain : HomeLabs, TryHackMe, projets concrets, certifications.
+Aujourd'hui mon objectif est de me spécialiser en cybersécurité.
+Je construis mes compétences de manière autonome : HomeLabs, TryHackMe, projets concrets, certifications.
 
-→ Je recherche une **alternance 24 mois (rythme 3 sem / 3 sem)** à partir de septembre 2026.
+→ Je recherche une **Alternance 24 mois (rythme 3 sem / 3 sem)** à partir de septembre 2026 en IDF ou Angers/Nantes/Le Mans/Tours/Rennes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nargice-boudlal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.nargice@gmail.com)
@@ -68,8 +68,8 @@ Mise en place d'un environnement cloud durci sur Azure : VM Debian 12, Network S
 
 Mon objectif est d'évoluer dans la cybersécurité, et je le construis activement en dehors des cours.
 
-Je me forme sur **TryHackMe** (réseaux, Linux, sécurité offensive et défensive), je monte des labs perso pour pratiquer sur des cas concrets, et je suis les parcours de la **Cisco Networking Academy** pour renforcer mes bases réseau.
+Je me forme sur **TryHackMe** (réseaux, Linux, SIEM), je monte des labs perso pour pratiquer et apprendre sur des cas concrets, et je suis les parcours de la **Cisco Networking Academy** pour renforcer mes connaissances.
 
-Côté certifications, j'ai validé une formation Agile Scrum/Kanban sur Udemy (avril 2026) et un MOOC gestion de projet (mai 2025) — parce que savoir travailler en équipe et gérer un projet, c'est aussi une compétence technique.
+Côté certifications, j'ai validé une formation Agile Scrum/Kanban sur Udemy (avril 2026) et un MOOC gestion de projet (mai 2025) — parce que savoir travailler en équipe et gérer un projet, c'est aussi une compétence qui me tient à coeur.
 
 Je suis également membre du **CEFCYS** (Cercle des Femmes de la Cybersécurité), une association qui m'a permis d'être mentorée et de me sensibiliser à la norme **ISO 27001** et à la gestion de la sécurité des systèmes d'information.
