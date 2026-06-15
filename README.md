@@ -1,75 +1,75 @@
-<h1 align="center"> Bonjour, je suis Nargice 👋</h1>
-<h3 align="center">🛡️ Future Ingénieure Cybersécurité & Systèmes | Gestion de Projet</h3>
+# Bonjour, je suis Nargice 👋
+### Étudiante ingénieure · Cybersécurité & Infrastructure · ESEO Angers
 
-<br/>
+J'ai commencé par la médecine, puis la biologie, avant de me réorienter vers l'ingénierie.
+Ce parcours un peu atypique m'a appris une chose : je m'adapte vite et j'apprends encore plus vite.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nargice-boudlal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact.nargice@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+Aujourd'hui mon objectif est clair — me spécialiser en cybersécurité, côté infrastructure et DevSecOps.
+Je construis mes compétences sur le terrain : HomeLabs, TryHackMe, projets concrets, certifications.
 
-<br/>
+→ Je recherche une **alternance 24 mois (rythme 3 sem / 3 sem)** à partir de septembre 2026.
 
-### 👨‍💻 À propos de moi
-
-Mon parcours est guidé par la curiosité et l'envie de relever de nouveaux défis : après des débuts en médecine et en biologie, je me suis réorientée vers l'ingénierie avec un objectif clair : me spécialiser en **cybersécurité**. 
-
-- 🎯 **Objectif :** À la recherche d'une **Alternance de 24 mois** (rythme 3 semaines / 3 semaines) à partir de **Septembre 2026**.
-- 💡 **Mindset :** Je construis mes compétences en systèmes, réseaux, cloud et cyber via des projets concrets (HomeLabs, TryHackMe).
-- 🚀 **Gestion de Projet & Méthodologie :** Passionnée par la chefferie de projet, j'ai une approche structurée grâce à ma formation en gestion de projet Agile (Scrum/Kanban).
-- 👩‍💻 **Engagement :** Membre du CEFCYS, j'ai à cœur de promouvoir l'ingénierie et la cybersécurité au féminin, tout en ayant approfondi le SMSI et la norme **ISO 27001** lors d'un mentorat dédié.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nargice-boudlal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.nargice@gmail.com)
 
 ---
 
-### 🛠️ Mon Stack Technique Complet
+## 🛠️ Stack technique
 
-<div align="center">
-  <p><strong>OS, Infrastructure & Cloud</strong></p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
+**Infrastructure & cloud**
+`Linux Debian · Kali` `Microsoft Azure` `Docker · Compose` `VMware · VirtualBox` `Apache · HTTPS` `pfSense` `Packet Tracer` `Wireshark`
 
-<div align="center">
-  <p><strong>DevSecOps, Scripting & Langages</strong></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-</div>
+**DevSecOps & développement**
+`Python` `Java · C` `Bash · PowerShell` `GitLab CI/CD` `Git · GitHub · GitLab` `SSH`
 
-<div align="center">
-  <p><strong>Électronique, Embarqué & Outils de mesure</strong></p>
-  <img src="https://img.shields.io/badge/STM32-0083D6?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" />
-  <img src="https://img.shields.io/badge/Altium-003366?style=for-the-badge&logo=altium&logoColor=white" alt="Altium" />
-</div>
+**Web & base de données**
+`HTML · CSS · JavaScript` `PHP` `Jinja2` `MySQL`
+
+**Embarqué & mesure**
+`STM32 · Arduino` `SPI · I2C · UART` `Matlab · Simulink` `Altium Designer`
 
 ---
 
-### 📈 Gestion de Projet & Méthodologie
-* **Méthodes :** Agile, Scrum, Kanban.
-* **Gouvernance :** Maîtrise des concepts du SMSI et de la norme ISO 27001.
-* **Outils & Protocoles :** GitLab CI/CD, Apache VirtualHosts, Let's Encrypt (HTTPS), Modèle OSI, TCP/UDP,  Gestion des droits utilisateurs, SSH.
+## 🚀 Projets
+
+### 🔐 Module web de gestion de mémoires — LISA / ULB (Stage S7)
+Durant mon stage à l'Université Libre de Bruxelles, j'ai repris from scratch la gestion des sujets de mémoire du labo — l'ancien outil (LimeSurvey + scripts Python) ne fonctionnait plus après une mise à jour et n'était plus maintenable.
+
+J'ai conçu et déployé une application web complète sous ERPNext/Frappe avec trois espaces distincts selon le rôle (étudiant, professeur, administration), des notifications e-mail automatiques, un export CSV et un déploiement Docker sur serveur Linux. Le tout versionné sur GitLab et mis en production.
+
+`Python` `Frappe / ERPNext` `MariaDB` `JavaScript` `Jinja2` `Docker` `GitLab CI/CD` `SMTP` `Linux` · [Voir le dépôt](https://github.com/Nvrgiice/Technical-Internship)
 
 ---
 
-### 🚀 Mes Projets (HomeLabs & Académiques)
+### ☕ Application CLI de gestion de fraudes — Projet Java ESEO
+Application en ligne de commande pour gérer les fraudes lors d'examens universitaires, développée en binôme à l'ESEO. Le projet couvre la recherche multi-critères, des statistiques (moyenne, écart-type) et la génération d'un graphe de relations de plagiat.
 
-| Projet | Description | Technologies |
-| :--- | :--- | :--- |
-| **[Labo Cyber : pfSense & Kali](https://github.com/Nvrgiice/Firewall)** | Firewall, Routage, résolution DNS/DHCP, et mise en place de règles de pare-feu Stateful. | `pfSense`, `VirtualBox`, `Réseau` |
-| **Infra Cloud Azure Sécurisée** | Déploiement d'un environnement cloud durci : VM Debian 12, NSG, SSH par clés, et web multi-site HTTPS. | `Azure`, `Debian`, `Apache` |
-| **Module Web (Stage ULB)** | Remplacement d'un outil de gestion. Conteneurisation de l'application et automatisation via pipeline CI/CD. | `Docker`, `GitLab`, `Python` |
+Au-delà du code, on a soigné la qualité : modélisation UML complète, tests JUnit 5 avec plus de 80% de couverture de branches, cahier de tests Excel et documentation Doxygen.
+
+`Java 17` `JUnit 5` `POO` `Doxygen` `IntelliJ IDEA` `Git` · [Voir le dépôt](https://github.com/Nvrgiice/PROJET2JAVA)
+
+---
+
+### 🛡️ Firewall & réseau — pfSense + Kali Linux
+Un lab réseau monté sous VirtualBox pour pratiquer le routage, la résolution DNS/DHCP et la mise en place de règles de pare-feu Stateful. L'idée : tester la sécurité périmétrique en conditions proches du réel.
+
+`pfSense` `VirtualBox` `Réseau` `Kali Linux` · [Voir le dépôt](https://github.com/Nvrgiice/Firewall)
+
+---
+
+### ☁️ Infrastructure cloud sécurisée — Microsoft Azure
+Mise en place d'un environnement cloud durci sur Azure : VM Debian 12, Network Security Groups, authentification SSH par clés uniquement et hébergement multi-site en HTTPS avec Let's Encrypt.
+
+`Azure` `Debian` `Apache` `Let's Encrypt` `SSH`
+
+---
+
+## 📚 Engagements & formations
+
+Mon objectif est d'évoluer dans la cybersécurité, et je le construis activement en dehors des cours.
+
+Je me forme sur **TryHackMe** (réseaux, Linux, sécurité offensive et défensive), je monte des labs perso pour pratiquer sur des cas concrets, et je suis les parcours de la **Cisco Networking Academy** pour renforcer mes bases réseau.
+
+Côté certifications, j'ai validé une formation Agile Scrum/Kanban sur Udemy (avril 2026) et un MOOC gestion de projet (mai 2025) — parce que savoir travailler en équipe et gérer un projet, c'est aussi une compétence technique.
+
+Je suis également membre du **CEFCYS** (Cercle des Femmes de la Cybersécurité), une association qui m'a permis d'être mentorée et de me sensibiliser à la norme **ISO 27001** et à la gestion de la sécurité des systèmes d'information.
