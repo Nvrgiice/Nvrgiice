@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Bonjour, je suis Nargice 👋</h1>
-  <h3>🛡️ Étudiante Ingénieure · Cybersécurité & Infrastructure · ESEO</h3>
-  <i>J'ai commencé par la médecine, puis la biologie, avant de me réorienter vers l'ingénierie.
-    Ce parcours un peu atypique m'a appris une chose : je m'adapte vite et j'apprends encore plus vite.
-  </i>
+  <h3>🛡️ Étudiante Ingénieure · Cybersécurité & Infrastructure · ESEO Angers</h3>
+  <i>J'ai commencé par la médecine, puis la biologie, avant de me réorienter vers l'ingénierie.<br> Ce parcours un peu atypique m'a appris une chose : je m'adapte vite et j'apprends encore plus vite.</i>
   <br><br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nargice-boudlal)
@@ -12,62 +10,67 @@
 
 ---
 
-## 🎯 Objectif : Alternance Cybersécurité
-> **Recherche une alternance de 24 mois**
-> ⏱️ **Rythme :** 3 semaines / 3 semaines à partir de septembre 2026
-> 📍 **Localisation :** Île-de-France, Angers, Nantes, Le Mans, Tours, Rennes
+## 🎯 Objectif : Alternance
+> → Je recherche une **Alternance 24 mois (rythme 3 sem / 3 sem)** à partir de septembre 2026 en IDF ou Angers/Nantes/Le Mans/Tours/Rennes.
 
-Aujourd'hui, mon objectif est de me spécialiser en cybersécurité. Je construis mes compétences de manière autonome et proactive : HomeLabs, TryHackMe, projets d'infrastructure concrets et certifications.
+Aujourd'hui mon objectif est de me spécialiser en cybersécurité. Je construis mes compétences de manière autonome : HomeLabs, TryHackMe, projets concrets, certifications.
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Stack technique
 
-| Domaine | Technologies |
+| Catégorie | Technologies |
 | :--- | :--- |
-| **Infrastructure & Cloud** | `Linux (Debian, Kali)` `Microsoft Azure` `Docker & Compose` `VMware / VirtualBox` `Apache` `pfSense` `Wireshark` |
-| **DevSecOps & Scripting** | `Python` `Bash` `PowerShell` `Git / GitLab CI/CD` `SSH` |
-| **Développement & Web** | `Java` `C` `HTML/CSS/JS` `PHP` `Jinja2` `MySQL / MariaDB` |
-| **Embarqué & Hardware** | `STM32` `Arduino` `SPI / I2C / UART` `Matlab / Simulink` `Altium` |
+| **Infrastructure & cloud** | `Linux Debian · Kali` `Microsoft Azure` `Docker · Compose` `VMware · VirtualBox` `Apache · HTTPS` `pfSense` `Packet Tracer` `Wireshark` |
+| **DevSecOps & développement** | `Python` `Java · C` `Bash · PowerShell` `GitLab CI/CD` `Git · GitHub · GitLab` `SSH` |
+| **Web & base de données** | `HTML · CSS · JavaScript` `PHP` `Jinja2` `MySQL` |
+| **Embarqué & mesure** | `STM32 · Arduino` `SPI · I2C · UART` `Matlab · Simulink` `Altium Designer` |
 
 ---
 
-## 🚀 Projets Phares
+## 🚀 Projets
 
-### 🔐 [Module web de gestion de mémoires — LISA / ULB](https://github.com/Nvrgiice/Technical-Internship)
-**Contexte :** Stage S7 — Refonte *from scratch* de l'outil de gestion du laboratoire, l'ancienne solution étant obsolète et inmaintenable.
-*   **Architecture :** Conception d'une application web complète sous le framework **Frappe / ERPNext**.
-*   **Fonctionnalités :** 3 espaces distincts (étudiant, professeur, admin), notifications e-mail automatiques (SMTP), export CSV.
-*   **Déploiement & Ops :** Mise en production sur serveur Linux via **Docker Compose**. Gestion du cycle de vie de l'application via GitLab CI/CD, maintenance des conteneurs backend, et exécution des migrations et de la gestion de cache via `bench`.
-*   **Stack :** `Python` `Frappe / ERPNext` `MariaDB` `JavaScript` `Jinja2` `Docker` `GitLab CI/CD`
+### 🔐 Module web de gestion de mémoires — LISA / ULB (Stage S7)
+Durant mon stage à l'Université Libre de Bruxelles, j'ai repris from scratch la gestion des sujets de mémoire du labo — l'ancien outil (LimeSurvey + scripts Python) ne fonctionnait plus après une mise à jour et n'était plus maintenable.
 
-### ☕ [Application CLI de gestion de fraudes](https://github.com/Nvrgiice/PROJET2JAVA)
-**Contexte :** Projet académique Java en binôme axé sur l'industrialisation et la qualité logicielle.
-*   **Fonctionnalités :** Outil en ligne de commande pour gérer les fraudes aux examens (recherche multi-critères, statistiques via moyenne/écart-type, génération de graphes de relations de plagiat).
-*   **Qualité & Tests :** Modélisation UML complète, tests **JUnit 5** avec plus de 80% de couverture de branches, cahier de tests Excel et documentation générée via **Doxygen**.
-*   **Stack :** `Java 17` `JUnit 5` `POO` `Doxygen` `IntelliJ IDEA`
+J'ai conçu et déployé une application web complète sous ERPNext/Frappe avec trois espaces distincts selon le rôle (étudiant, professeur, administration), des notifications e-mail automatiques, un export CSV et un déploiement Docker sur serveur Linux. Le tout versionné sur GitLab et mis en production.
 
-### 🛡️ [Firewall & Sécurité Réseau](https://github.com/Nvrgiice/Firewall)
-**Contexte :** HomeLab réseau monté pour pratiquer la sécurité périmétrique en conditions réelles.
-*   **Réalisation :** Routage, résolution DNS/DHCP, et mise en place de règles de pare-feu Stateful avec **pfSense** sous VirtualBox.
-*   **Tests :** Validation des règles et simulation d'attaques/audits de sécurité depuis **Kali Linux**.
-
-### ☁️ Infrastructure Cloud Durcie
-**Contexte :** Environnement cloud sécurisé hébergé sur Microsoft Azure.
-*   **Réalisation :** VM **Debian 12**, configuration stricte des *Network Security Groups* (NSG) et de l'authentification SSH (par clés uniquement).
-*   **Sécurité Web :** Hébergement multi-site sécurisé en HTTPS avec certificats **Let's Encrypt**.
+> 💻 **Stack :** `Python` `Frappe / ERPNext` `MariaDB` `JavaScript` `Jinja2` `Docker` `GitLab CI/CD` `SMTP` `Linux`
+> 🔗 **Lien :** [Voir le dépôt](https://github.com/Nvrgiice/Technical-Internship)
 
 ---
 
-## 📚 Engagements & Formation Continue
+### ☕ Application CLI de gestion de fraudes — Projet Java ESEO
+Application en ligne de commande pour gérer les fraudes lors d'examens universitaires, développée en binôme à l'ESEO. Le projet couvre la recherche multi-critères, des statistiques (moyenne, écart-type) et la génération d'un graphe de relations de plagiat.
 
-Mon évolution dans la cybersécurité se construit en grande partie en dehors des cours :
+Au-delà du code, on a soigné la qualité : modélisation UML complète, tests JUnit 5 avec plus de 80% de couverture de branches, cahier de tests Excel et documentation Doxygen.
 
-*   **Pratique Offensive & Défensive :** Je me forme activement sur **TryHackMe** (Réseaux, Linux, SIEM) et je suis les parcours de la **Cisco Networking Academy**.
-*   **Sensibilisation & Gouvernance :** Membre du **CEFCYS** (Cercle des Femmes de la Cybersécurité). Cette association me permet d'être mentorée et d'approfondir mes connaissances sur la norme **ISO 27001** et la gestion globale de la sécurité (SMSI).
-*   **Management & Agilité :** Validation d'une formation Agile Scrum/Kanban (Udemy, avril 2026) et d'un MOOC en gestion de projet (mai 2025). Gérer un projet et communiquer en équipe sont pour moi des compétences tout aussi critiques que la technique.
+> 💻 **Stack :** `Java 17` `JUnit 5` `POO` `Doxygen` `IntelliJ IDEA` `Git`
+> 🔗 **Lien :** [Voir le dépôt](https://github.com/Nvrgiice/PROJET2JAVA)
 
-<div align="center">
-  <br>
-  <i>N'hésitez pas à parcourir mes dépôts ou à me contacter directement !</i>
-</div>
+---
+
+### 🛡️ Firewall & réseau — pfSense + Kali Linux
+Un lab réseau monté sous VirtualBox pour pratiquer le routage, la résolution DNS/DHCP et la mise en place de règles de pare-feu Stateful. L'idée : tester la sécurité périmétrique en conditions proches du réel.
+
+> 💻 **Stack :** `pfSense` `VirtualBox` `Réseau` `Kali Linux`
+> 🔗 **Lien :** [Voir le dépôt](https://github.com/Nvrgiice/Firewall)
+
+---
+
+### ☁️ Infrastructure cloud sécurisée — Microsoft Azure
+Mise en place d'un environnement cloud durci sur Azure : VM Debian 12, Network Security Groups, authentification SSH par clés uniquement et hébergement multi-site en HTTPS avec Let's Encrypt.
+
+> 💻 **Stack :** `Azure` `Debian` `Apache` `Let's Encrypt` `SSH`
+
+---
+
+## 📚 Engagements & formations
+
+Mon objectif est d'évoluer dans la cybersécurité, et je le construis activement en dehors des cours.
+
+Je me forme sur **TryHackMe** (réseaux, Linux, SIEM), je monte des labs perso pour pratiquer et apprendre sur des cas concrets, et je suis les parcours de la **Cisco Networking Academy** pour renforcer mes connaissances.
+
+Côté certifications, j'ai validé une formation Agile Scrum/Kanban sur Udemy (avril 2026) et un MOOC gestion de projet (mai 2025) — parce que savoir travailler en équipe et gérer un projet, c'est aussi une compétence qui me tient à coeur.
+
+Je suis également membre du **CEFCYS** (Cercle des Femmes de la Cybersécurité), une association qui m'a permis d'être mentorée et de me sensibiliser à la norme **ISO 27001** et à la gestion de la sécurité des systèmes d'information.
