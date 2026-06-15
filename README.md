@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Bonjour, je suis Nargice 👋</h1>
   <h3>🛡️ Étudiante Ingénieure · Cybersécurité & Infrastructure · ESEO</h3>
-  <i>De la médecine à l'ingénierie : une capacité d'adaptation à toute épreuve, et une soif d'apprendre inextinguible.</i>
+  <i>J'ai commencé par la médecine, puis la biologie, avant de me réorienter vers l'ingénierie.
+    Ce parcours un peu atypique m'a appris une chose : je m'adapte vite et j'apprends encore plus vite.
+  </i>
   <br><br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nargice-boudlal)
