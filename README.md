@@ -71,12 +71,12 @@ I helped organize the **Cyber Month CTF** run by the Digital Factory, end to end
 **Problem:** the lab's old tool (LimeSurvey + Python scripts) broke after an update and was no longer maintainable.
 **What I delivered, from scratch:** a complete web application on **ERPNext / Frappe** with three role-based spaces (student, professor, administration), automatic email notifications and CSV export. Deployed with **Docker** on a Linux server, versioned on **GitLab** and **shipped to production**.
 
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe%20%2F%20ERPNext-0089FF?style=flat-square&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4D94?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1326)
+![Frappe / ERPNext](https://img.shields.io/badge/Frappe_%2F_ERPNext-FF4D94?style=for-the-badge&logoColor=white&labelColor=1a1326)
+![MariaDB](https://img.shields.io/badge/MariaDB-FF4D94?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=1a1326)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF4D94?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1326)
+![Docker](https://img.shields.io/badge/Docker-FF4D94?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1326)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FF4D94?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=1a1326)
 
 ### 📌 Featured repositories
 
@@ -138,29 +138,48 @@ I train regularly on **Root-Me**, the **PortSwigger Web Security Academy** and i
 
 ## 🛠️ Toolbox
 
-### 🔐 Security tools
+### 🔐 Security
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF4D94?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1a1326)](https://portswigger.net/burp)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-FF4D94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1a1326)](https://www.kali.org)
 [![Wireshark](https://img.shields.io/badge/Wireshark-FF4D94?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1a1326)](https://www.wireshark.org)
 [![Nmap](https://img.shields.io/badge/Nmap-FF4D94?style=for-the-badge&logoColor=white&labelColor=1a1326)](https://nmap.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-FF4D94?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1a1326)](https://www.metasploit.com)
 [![pfSense](https://img.shields.io/badge/pfSense-FF4D94?style=for-the-badge&logo=pfsense&logoColor=white&labelColor=1a1326)](https://www.pfsense.org)
-[![OWASP](https://img.shields.io/badge/OWASP_Top_10-FF4D94?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1a1326)](https://owasp.org/www-project-top-ten/)
+[![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-FF4D94?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1a1326)](https://owasp.org/www-project-top-ten/)
 [![OpenCode](https://img.shields.io/badge/OpenCode-FF4D94?style=for-the-badge&logoColor=white&labelColor=1a1326)](https://opencode.ai)
 
 ### ☁️ Cloud & infrastructure
-<img src="https://skillicons.dev/icons?i=azure,docker,linux,debian,apache,vmware&theme=dark" alt="Cloud and infrastructure" />
+![Azure](https://img.shields.io/badge/Azure-FF4D94?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1a1326)
+![Docker](https://img.shields.io/badge/Docker-FF4D94?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1326)
+![Linux](https://img.shields.io/badge/Linux-FF4D94?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1326)
+![Debian](https://img.shields.io/badge/Debian-FF4D94?style=for-the-badge&logo=debian&logoColor=white&labelColor=1a1326)
+![Apache](https://img.shields.io/badge/Apache-FF4D94?style=for-the-badge&logo=apache&logoColor=white&labelColor=1a1326)
+![VMware](https://img.shields.io/badge/VMware-FF4D94?style=for-the-badge&logo=vmware&logoColor=white&labelColor=1a1326)
 
 ### ⚙️ DevSecOps & development
-<img src="https://skillicons.dev/icons?i=py,java,c,bash,powershell,git,github,githubactions,gitlab&theme=dark" alt="DevSecOps and development" />
+![Python](https://img.shields.io/badge/Python-FF4D94?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1326)
+![Java](https://img.shields.io/badge/Java-FF4D94?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1326)
+![C](https://img.shields.io/badge/C-FF4D94?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1326)
+![Bash](https://img.shields.io/badge/Bash-FF4D94?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1326)
+![PowerShell](https://img.shields.io/badge/PowerShell-FF4D94?style=for-the-badge&logo=powershell&logoColor=white&labelColor=1a1326)
+![Git](https://img.shields.io/badge/Git-FF4D94?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1326)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF4D94?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1326)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FF4D94?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=1a1326)
 
 ### 🌐 Web & databases
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mariadb&theme=dark" alt="Web and databases" />
+![HTML5](https://img.shields.io/badge/HTML5-FF4D94?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1326)
+![CSS3](https://img.shields.io/badge/CSS3-FF4D94?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1326)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF4D94?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1326)
+![PHP](https://img.shields.io/badge/PHP-FF4D94?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1326)
+![MySQL](https://img.shields.io/badge/MySQL-FF4D94?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1326)
+![MariaDB](https://img.shields.io/badge/MariaDB-FF4D94?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=1a1326)
 
 ### 🔌 Embedded & measurement
-<img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" alt="Embedded and measurement" />
-
-`STM32` `SPI · I2C · UART` `Simulink` `Altium Designer`
+![STM32](https://img.shields.io/badge/STM32-FF4D94?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=1a1326)
+![Arduino](https://img.shields.io/badge/Arduino-FF4D94?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1326)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF4D94?style=for-the-badge&logoColor=white&labelColor=1a1326)
+![Simulink](https://img.shields.io/badge/Simulink-FF4D94?style=for-the-badge&logoColor=white&labelColor=1a1326)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-FF4D94?style=for-the-badge&logoColor=white&labelColor=1a1326)
+![SPI · I2C · UART](https://img.shields.io/badge/SPI_%C2%B7_I2C_%C2%B7_UART-FF4D94?style=for-the-badge&logoColor=white&labelColor=1a1326)
 
 ---
 
