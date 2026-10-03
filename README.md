@@ -1,78 +1,194 @@
 <div align="center">
-  <h1>Bonjour, je suis Nargice 👋</h1>
-  <h3>🛡️ Étudiante Ingénieure · Cybersécurité & Infrastructure · ESEO Angers</h3>
-  <i>J'ai commencé par la médecine, puis la biologie, avant de me réorienter vers l'ingénierie.<br> Ce parcours un peu atypique m'a appris une chose : je m'adapte vite et j'apprends encore plus vite.</i>
-  <br><br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nargice-boudlal)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.nargice@gmail.com)
+<!-- Animated banner: add assets/header.svg to this repo -->
+<img src="https://raw.githubusercontent.com/Nvrgiice/Nvrgiice/main/assets/header.svg" alt="Nargice - Cybersecurity Engineering Student" width="100%" />
+
+<br>
+
+**🎯 My goal: keep evolving, keep learning, and become a cybersecurity expert.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/nargice-boudlal"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF4D94?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1326" alt="LinkedIn" /></a>
+<a href="mailto:contact.nargice@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-FF4D94?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1326" alt="Email" /></a>
+<a href="https://www.root-me.org/nvrgiice"><img src="https://img.shields.io/badge/Root--Me-nvrgiice-FF4D94?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1326" alt="Root-Me" /></a>
+<a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger-Academy-FF4D94?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1a1326" alt="PortSwigger" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Nvrgiice&color=FF4D94&style=flat-square&label=PROFILE+VIEWS&labelColor=1a1326" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Nvrgiice?style=flat-square&logo=github&label=Followers&color=FF4D94&labelColor=1a1326" alt="Followers" />
+
 </div>
 
 ---
 
-## 🎯 Objectif : Alternance
-> → Je recherche une **Alternance 24 mois (rythme 3 sem / 3 sem)** à partir de septembre 2026 en IDF ou Angers/Nantes/Le Mans/Tours/Rennes.
-> 
-> → ou un stage en cybersécurité de Septembre à Décembre 2026 pour monter en compétences et gagner de l'expérience !
+## 🎯 At a glance
 
-Aujourd'hui mon objectif est de me spécialiser en cybersécurité. Je construis mes compétences de manière autonome : HomeLabs, TryHackMe, projets concrets, certifications.
-
----
-
-## 🛠️ Stack technique
-
-| Catégorie | Technologies |
+| | |
 | :--- | :--- |
-| **Infrastructure & cloud** | `Linux Debian · Kali` `Microsoft Azure` `Docker · Compose` `VMware · VirtualBox` `Apache · HTTPS` `pfSense` `Packet Tracer` `Wireshark` |
-| **DevSecOps & développement** | `Python` `Java · C` `Bash · PowerShell` `GitLab CI/CD` `Git · GitHub · GitLab` `SSH` |
-| **Web & base de données** | `HTML · CSS · JavaScript` `PHP` `Jinja2` `MySQL` |
-| **Embarqué & mesure** | `STM32 · Arduino` `SPI · I2C · UART` `Matlab · Simulink` `Altium Designer` |
+| **Looking for** | A **work-study apprenticeship** (*alternance*) for my **final year** of engineering school |
+| **Rhythm** | 3 weeks at the company / 3 weeks at school |
+| **Locations** | 📍 Île-de-France · Rennes · Nantes |
+| **Focus** | Web security · Cloud & infrastructure · DevSecOps |
+| **Education** | ESEO, **Cloud System Security** track (2023 – 2028) |
+| **Latest experience** | 5-month internship at **TotalEnergies Digital Factory**, Paris |
 
 ---
 
-## 🚀 Projets
+## 💼 Experience: TotalEnergies Digital Factory
 
-### 🔐 Module web de gestion de mémoires : LISA / ULB (Stage S7)
-Durant mon stage à l'Université Libre de Bruxelles, j'ai repris from scratch la gestion des sujets de mémoire du labo — l'ancien outil (LimeSurvey + scripts Python) ne fonctionnait plus après une mise à jour et n'était plus maintenable.
+**5-month internship in Paris, inside a team of ~300 digital experts** (software engineers, data scientists, UX designers…) delivering solutions for the business lines of a group present in nearly 130 countries. 100+ solutions built, around sixty of them powered by machine learning or generative AI.
 
-J'ai conçu et déployé une application web complète sous ERPNext/Frappe avec trois espaces distincts selon le rôle (étudiant, professeur, administration), des notifications e-mail automatiques, un export CSV et un déploiement Docker sur serveur Linux. Le tout versionné sur GitLab et mis en production.
+A demanding, agile environment alongside **major technology partners** (Microsoft, Mistral AI, be:mo…): I learned to do security **in real conditions**, not just in theory.
 
-> 💻 **Stack :** `Python` `Frappe / ERPNext` `MariaDB` `JavaScript` `Jinja2` `Docker` `GitLab CI/CD` `SMTP` `Linux`
-> 🔗 **Lien :** [Voir le dépôt](https://github.com/Nvrgiice/Technical-Internship)
+**What I put into practice:**
 
----
+- 🔓 **Web security**: spotting vulnerabilities, understanding how they are exploited, knowing how to fix them (**OWASP Top 10**)
+- 🔑 **Authentication**: OAuth2 / OpenID Connect
+- ☁️ **Cloud**: Azure environments
+- ⚙️ **DevSecOps**: CI/CD pipelines on GitHub
+- 🛡️ **Security best practices** applied in an enterprise context
+- 🔄 **Agile methods** day to day
+- 🏴 **Internal CTFs** built on realistic, company-inspired scenarios
 
-### ☕ Application CLI de gestion de fraudes : Projet Java ESEO
-Application en ligne de commande pour gérer les fraudes lors d'examens universitaires, développée en binôme à l'ESEO. Le projet couvre la recherche multi-critères, des statistiques (moyenne, écart-type) et la génération d'un graphe de relations de plagiat.
+### 🎪 Organizing the Cyber Month CTF
 
-Au-delà du code, on a soigné la qualité : modélisation UML complète, tests JUnit 5 avec plus de 80% de couverture de branches, cahier de tests Excel et documentation Doxygen.
+I helped organize the **Cyber Month CTF** run by the Digital Factory, end to end:
 
-> 💻 **Stack :** `Java 17` `JUnit 5` `POO` `Doxygen` `IntelliJ IDEA` `Git`
-> 🔗 **Lien :** [Voir le dépôt](https://github.com/Nvrgiice/PROJET2JAVA)
+- 🧩 **Designed challenges** in web, OSINT, steganography and cryptography
+- 🏁 **Ran the CTF closing**
+- 🤝 **Organized a workshop with Chainguard**, one of the event's partners
 
----
-
-### 🛡️ Firewall & réseau : pfSense + Kali Linux
-Un lab réseau monté sous VirtualBox pour pratiquer le routage, la résolution DNS/DHCP et la mise en place de règles de pare-feu Stateful. L'idée : tester la sécurité périmétrique en conditions proches du réel.
-
-> 💻 **Stack :** `pfSense` `VirtualBox` `Réseau` `Kali Linux`
-> 🔗 **Lien :** [Voir le dépôt](https://github.com/Nvrgiice/Firewall)
+> Designing a challenge means mastering a flaw end to end: from exploitation to remediation.
 
 ---
 
-### ☁️ Infrastructure cloud sécurisée : Microsoft Azure
-Mise en place d'un environnement cloud durci sur Azure : VM Debian 12, Network Security Groups, authentification SSH par clés uniquement et hébergement multi-site en HTTPS avec Let's Encrypt.
+## 🚀 Projects
 
-> 💻 **Stack :** `Azure` `Debian` `Apache` `Let's Encrypt` `SSH`
+### 🔐 Thesis-topic management platform: LISA / ULB (internship in Brussels)
+
+**Problem:** the lab's old tool (LimeSurvey + Python scripts) broke after an update and was no longer maintainable.
+**What I delivered, from scratch:** a complete web application on **ERPNext / Frappe** with three role-based spaces (student, professor, administration), automatic email notifications and CSV export. Deployed with **Docker** on a Linux server, versioned on **GitLab** and **shipped to production**.
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe%20%2F%20ERPNext-0089FF?style=flat-square&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+### 📌 Featured repositories
+
+[![Technical-Internship](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nvrgiice&repo=Technical-Internship&theme=react&bg_color=0D1117&title_color=FF4D94&hide_border=true&icon_color=FF9AC1&show_icons=false)](https://github.com/Nvrgiice/Technical-Internship)
+[![PROJET2JAVA](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nvrgiice&repo=PROJET2JAVA&theme=react&bg_color=0D1117&title_color=FF4D94&hide_border=true&icon_color=FF9AC1&show_icons=false)](https://github.com/Nvrgiice/PROJET2JAVA)
+[![Firewall](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nvrgiice&repo=Firewall&theme=react&bg_color=0D1117&title_color=FF4D94&hide_border=true&icon_color=FF9AC1&show_icons=false)](https://github.com/Nvrgiice/Firewall)
+
+<details>
+<summary><b>☁️ Hardened cloud infrastructure: Microsoft Azure</b></summary>
+<br>
+
+Debian 12 VM behind **Network Security Groups**, **SSH key-only authentication**, multi-site hosting over **HTTPS** (Let's Encrypt).
+
+`Azure` `Debian` `Apache` `Let's Encrypt` `SSH`
+
+</details>
+
+<details>
+<summary><b>🛡️ Perimeter security: pfSense + Kali Linux</b></summary>
+<br>
+
+VirtualBox network lab: routing, DNS/DHCP and **stateful** firewall rules, to test perimeter security in near-real conditions.
+
+`pfSense` `VirtualBox` `Networking` `Kali Linux`
+
+</details>
+
+<details>
+<summary><b>☕ Fraud management CLI tool: Java (ESEO)</b></summary>
+<br>
+
+Command-line application built in a pair: multi-criteria search, statistics and a plagiarism relationship graph.
+Engineering rigor: **UML** modeling, **JUnit 5** tests with **over 80% branch coverage**, Doxygen documentation.
+
+`Java 17` `JUnit 5` `UML` `Doxygen` `Git`
+
+</details>
 
 ---
 
-## 📚 Engagements & formations
+## 🧪 Continuous training
 
-Mon objectif est d'évoluer dans la cybersécurité, et je le construis activement en dehors des cours.
+I train regularly on **Root-Me**, the **PortSwigger Web Security Academy** and in my own labs to stay hands-on and keep building skills. My direction: **enterprise-grade** technical projects, then expertise.
 
-Je me forme sur **TryHackMe** (réseaux, Linux, SIEM), je monte des labs perso pour pratiquer et apprendre sur des cas concrets, et je suis les parcours de la **Cisco Networking Academy** pour renforcer mes connaissances.
+[![Root-Me](https://img.shields.io/badge/Root--Me-nvrgiice-FF4D94?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1326)](https://www.root-me.org/nvrgiice)
+[![PortSwigger](https://img.shields.io/badge/PortSwigger-Web_Security_Academy-FF4D94?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1a1326)](https://portswigger.net/web-security)
 
-Côté certifications, j'ai validé une formation Agile Scrum/Kanban sur Udemy (avril 2026) et un MOOC gestion de projet (mai 2025) parce que savoir travailler en équipe et gérer un projet, c'est aussi une compétence qui me tient à coeur.
+---
 
-Je suis également membre du **CEFCYS** (Cercle des Femmes de la Cybersécurité), une association qui m'a permis d'être mentorée et de me sensibiliser à la norme **ISO 27001** et à la gestion de la sécurité des systèmes d'information.
+## 🎓 Education & community
+
+**ESEO Engineering School, Cloud System Security track · 2023 – 2028**
+
+- 📜 **Agile Scrum / Kanban** (Udemy, April 2026)
+- 📜 **Project management** (MOOC, May 2025)
+- 👩‍💻 Member of **CEFCYS** (Cercle des Femmes de la Cybersécurité), committed to bringing more women into cybersecurity
+
+---
+
+## 🛠️ Toolbox
+
+### 🔐 Security tools
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF4D94?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1a1326)](https://portswigger.net/burp)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-FF4D94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1a1326)](https://www.kali.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-FF4D94?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1a1326)](https://www.wireshark.org)
+[![Nmap](https://img.shields.io/badge/Nmap-FF4D94?style=for-the-badge&logoColor=white&labelColor=1a1326)](https://nmap.org)
+[![Metasploit](https://img.shields.io/badge/Metasploit-FF4D94?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1a1326)](https://www.metasploit.com)
+[![pfSense](https://img.shields.io/badge/pfSense-FF4D94?style=for-the-badge&logo=pfsense&logoColor=white&labelColor=1a1326)](https://www.pfsense.org)
+[![OWASP](https://img.shields.io/badge/OWASP_Top_10-FF4D94?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1a1326)](https://owasp.org/www-project-top-ten/)
+[![OpenCode](https://img.shields.io/badge/OpenCode-FF4D94?style=for-the-badge&logoColor=white&labelColor=1a1326)](https://opencode.ai)
+
+### ☁️ Cloud & infrastructure
+<img src="https://skillicons.dev/icons?i=azure,docker,linux,debian,apache,vmware&theme=dark" alt="Cloud and infrastructure" />
+
+### ⚙️ DevSecOps & development
+<img src="https://skillicons.dev/icons?i=py,java,c,bash,powershell,git,github,githubactions,gitlab&theme=dark" alt="DevSecOps and development" />
+
+### 🌐 Web & databases
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mariadb&theme=dark" alt="Web and databases" />
+
+### 🔌 Embedded & measurement
+<img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" alt="Embedded and measurement" />
+
+`STM32` `SPI · I2C · UART` `Simulink` `Altium Designer`
+
+---
+
+## 📊 Stats & activity
+
+<div align="center">
+
+### 🔥 Streak
+
+[![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Nvrgiice&background=0D1117&ring=FF4D94&fire=FF9AC1&currStreakNum=FFFFFF&currStreakLabel=FF4D94&sideNums=FFFFFF&sideLabels=FF9AC1&dates=9E9E9E&hide_border=true&short_numbers=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### 💻 GitHub stats
+
+[![Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=Nvrgiice&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF4D94&icon_color=FF9AC1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nvrgiice&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF4D94&icon_color=FF9AC1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=Nvrgiice&bg_color=0D1117&color=FF4D94&line=FF4D94&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### Hiring in cybersecurity for 2027?
+
+**[📬 Let's talk](mailto:contact.nargice@gmail.com)** · **[💼 LinkedIn](https://www.linkedin.com/in/nargice-boudlal)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b0b14,100:FF4D94&section=footer" alt="" width="100%" />
+
+</div>
