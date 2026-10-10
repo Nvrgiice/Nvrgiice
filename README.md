@@ -80,6 +80,7 @@ I helped organize the **Cyber Month CTF** run by the Digital Factory, end to end
 
 ### 📌 Featured repositories
 
+[![LoginOAuth2](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nvrgiice&repo=LoginOAuth2&theme=react&bg_color=0D1117&title_color=FF4D94&hide_border=true&icon_color=FF9AC1&show_icons=false)](https://github.com/Nvrgiice/LoginOAuth2)
 [![Technical-Internship](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nvrgiice&repo=Technical-Internship&theme=react&bg_color=0D1117&title_color=FF4D94&hide_border=true&icon_color=FF9AC1&show_icons=false)](https://github.com/Nvrgiice/Technical-Internship)
 [![PROJET2JAVA](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nvrgiice&repo=PROJET2JAVA&theme=react&bg_color=0D1117&title_color=FF4D94&hide_border=true&icon_color=FF9AC1&show_icons=false)](https://github.com/Nvrgiice/PROJET2JAVA)
 [![Firewall](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nvrgiice&repo=Firewall&theme=react&bg_color=0D1117&title_color=FF4D94&hide_border=true&icon_color=FF9AC1&show_icons=false)](https://github.com/Nvrgiice/Firewall)
